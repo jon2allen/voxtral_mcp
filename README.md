@@ -40,6 +40,8 @@ Add the following to your `mcp_config.json` or other config file:
   }
 }
 ```
+Note: if you use venv take special care of path
+
 
 ## Testing
 
