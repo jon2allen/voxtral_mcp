@@ -9,7 +9,7 @@ An MCP server that provides high-quality audio transcription using Mistral's **V
 - **Multiple Formats**: Get results as plain text, JSON, Verbose JSON (with timestamps), SRT, or VTT.
 - **Multilingual**: Supports 50+ languages.
 - **OpenAI SDK Compatible**: Built using the OpenAI Python SDK for robust API interaction.
-- ** not tested outside Mistral api
+- ** not tested outside Mistral API 
 
 ## Installation
 
